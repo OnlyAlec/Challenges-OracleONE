@@ -38,3 +38,15 @@ La relación entre entidades se aplico de la siguiente forma:
 - `Idioma`: *Enumerable* lista con los posibles idiomas de un libro.
 
 ## Demo:
+### Menu:
+![imagen](https://github.com/user-attachments/assets/d528dc6d-c605-4a3d-82aa-10e9f2c09b2a)
+![imagen](https://github.com/user-attachments/assets/da559245-1dd1-4533-a444-dc796f4b6588)
+
+### Listados:
+![imagen](https://github.com/user-attachments/assets/7240970d-80b2-4b8e-befc-c9f11ebada94)
+![imagen](https://github.com/user-attachments/assets/e61a833e-c137-4108-8f9e-091d57e99911)
+
+### Filtro:
+![imagen](https://github.com/user-attachments/assets/2717216d-9500-4bc5-8c05-c284a641f9a6)
+![imagen](https://github.com/user-attachments/assets/623893f5-6f7c-4566-9e68-f7df2957c45a)
+
